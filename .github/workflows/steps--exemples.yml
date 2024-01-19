@@ -3,7 +3,7 @@ name: Steps Examples
 on: push
 
 jobs:
-  jobx:
+  marketplace:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout Repository
